@@ -1,0 +1,27 @@
+
+# Numerical computing
+numpy
+
+# Data manipulation and analysis
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+scipy
+
+# Statistical analysis
+statsmodels
+
+# Model serialization
+joblib
+
+# Jupyter environment
+jupyter
+ipykernel
+
+# Testing
+pytest
